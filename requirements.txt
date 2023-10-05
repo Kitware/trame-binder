@@ -2,3 +2,4 @@ trame
 trame-vuetify
 trame-vtk
 trame_jupyter_extension
+trame-client>=2.12.4
