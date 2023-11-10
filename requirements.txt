@@ -1,5 +1,5 @@
 trame
 trame-vuetify
 trame-vtk
-trame_jupyter_extension
+trame_jupyter_extension<2
 trame-client>=2.12.4
