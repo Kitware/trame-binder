@@ -1,0 +1,4 @@
+trame==3.5.5
+trame-vuetify
+trame-vtk
+trame_jupyter_extension
